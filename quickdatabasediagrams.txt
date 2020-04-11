@@ -15,8 +15,8 @@ to_date DATE
 
 Deptartment_Managers
 -
-emp_no INT FK >- Employees.emp_no
 dept_no VARCHAR(10) FK >- Departments.dept_no
+emp_no INT FK >- Employees.emp_no
 from_date DATE
 to_date DATE
 
